@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Chassis
+Receiving System Product I.D.: Chassis
+File Name                    : C:\Users\atmad\iCloudDrive\Doodle_\Chassis.IGS
+Sending System               : SolidWorks 2016
+Preprocessor Version         : SolidWorks 2016
+File Creation Date           : 220320.001240
+Model Creation Date          : 220320.001240
+Units                        : MM
+Model Space Scale            : 1
+Author                       : atmad
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               4
+  Highest number of significant digits:                     12
+  Average number of significant digits:                3.43668
+  Maximum distance to origin:                          1030.99
+  Minimum distance to origin:                                1
+  Effective number of significant digits:              11.9992
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                          12012     12012
+102  Composite curve                              13522     13522
+110  Line                                         16412     16412
+120  Surface of revolution                         3193      3193
+124  Transformation matrix                         9316      9316
+126  Rational B-spline curve                      28998     28998
+128  Rational B-spline surface                     2302      2302
+142  Curve on a parametric surface                 6761      6761
+144  Trimmed parametric surface                    5495      5495
+308  Subfigure definition                            97        97
+314  Color definition                              5496      5496
+408  Singular subfigure instance                     97        97
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       245
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, March 20, 2022 13:37:14
+Finish time: Sunday, March 20, 2022 13:37:52
+Processing time: 0 days, 00 hours, 00 mins, 38 secs
